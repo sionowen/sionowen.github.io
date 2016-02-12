@@ -1,0 +1,57 @@
+.bronze-text {
+	color: rgb(160, 148, 123);
+}
+.inline{
+	display: inline-block;
+}
+.initials {
+	font-size: 600%;
+	width: 20%;
+	margin: 0;
+	float: right;
+	margin-top:8px;
+}
+
+.left-margin{
+	margin-left: 5%;
+}
+.paragraph-title {
+	margin-left: 5%;
+	border-bottom: solid;
+	border-color: rgb(160, 148, 123);
+	margin-right: 5%;
+}
+.dark-bronze-text{
+	color: rgb(117, 105, 80);
+}
+.plain-text{
+	margin-left: 5%;
+	margin-right: 8%;
+}
+.sub-title-with-date{
+	overflow: hidden;
+}
+.date{
+	float: right;
+	width: 40%;
+}
+.top-margin{
+	margin-top: 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
